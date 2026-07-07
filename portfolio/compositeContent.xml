@@ -2,9 +2,9 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='Portfolio Performance' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1782149868000'/>
+    <property name='p2.timestamp' value='1783406144000'/>
   </properties>
   <children size='1'>
-    <child location='../releases/0.84.2'/>
+    <child location='../releases/0.85.0'/>
   </children>
 </repository>
